@@ -1,0 +1,18 @@
+extracted_frames/
+ff_frames/
+dataset/
+data/
+checkpoints/
+checkpoints_novel/
+checkpoints_ablation_A/
+checkpoints_ablation_B/
+checkpoints_v2/
+*.pth
+*.pt
+__pycache__/
+*.pyc
+face forensics/
+splits/
+results/
+.ipynb_checkpoints/
+*.ipynb
