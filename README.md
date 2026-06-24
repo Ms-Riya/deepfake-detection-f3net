@@ -223,11 +223,11 @@ The 9.5 pp gap is the single most impactful design choice in the whole system.
 If you find this work useful, please cite:
 
 ```bibtex
-@article{kanwal2025msdct,
+@article{Riya2026msdct,
   title   = {Multi-Scale Frequency Injection for Robust Deepfake Detection:
              Extended F3Net with Adaptive DCT Scale Fusion and
              Compression-Aware Embeddings},
-  author  = {Kanwal, Preet and Sarkar, Riya},
+  author  = {Sarkar, Riya and Kanwal, Preet},
   journal = {arXiv preprint},
   year    = {2025}
 }
